@@ -4,7 +4,7 @@
 <!-- <p>Boilerplate repo for React Three Fiber app using Next.js and Typescript</p> -->
 
 <p align="center">
-    <a href="https://r3f-section-scroll-animation.vercel.app/" target="_blank"><img src="./public/cover.jpg" width="100%"/></a>
+    <a href="https://r3f-section-scroll-animation.vercel.app/" target="_blank"><img src="./public/cover-photo.jpg.jpg" width="100%"/></a>
 </p>
 
 ## Live Link
