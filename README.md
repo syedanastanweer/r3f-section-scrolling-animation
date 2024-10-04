@@ -25,7 +25,7 @@ Run this command for install node modules.
 npm i
 ```
 
-After install node modules, Run this command in your terminal to open a local server at localhost:1000
+After install node modules, Run this command in your terminal to open a local server at localhost:5174
 
 ```
 npm run dev
